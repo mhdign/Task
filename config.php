@@ -1,3 +1,6 @@
+//salam
+//1402/10/01
+
 <?php
 // Database configuration
 define('DB_SERVER', 'localhost'); // Database server, usually 'localhost'
